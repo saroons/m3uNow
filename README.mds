@@ -1,0 +1,243 @@
+{
+
+"name": "TV Wiseplay THAI",
+
+"author": "TWT",
+
+"image": "http://dict.drkrok.com/wp-content/uploads/2018/12/archive-300x225.jpg",
+
+"url": "",
+
+"groups": [
+
+{
+
+"name": "Thai TV",
+
+"image": "http://aosat.igetweb.com/article/art_42144142.png",
+
+"url": "http://tiny.cc/Thaitv1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Thai Truesports",
+
+"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
+
+"url": "http://tiny.cc/Thaisport1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Sports Inter",
+
+"image": "https://www.freepnglogos.com/uploads/sport-png/sport-kids-hobby-store-shop-for-activity-kits-art-craft-35.png",
+
+"url": "http://tiny.cc/Worldsports12345",
+
+"import": false
+
+},
+
+{
+
+"name": "Documentery",
+
+"image": "https://www.pngkey.com/png/full/31-312197_pod-globe-help-our-planet-earth.png",
+
+"url": "http://tiny.cc/Documentarytv1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Movies Tv",
+
+"image": "https://www.pmh.be/images/channels/proximus-m-s.png",
+
+"url": "http://tiny.cc/Moviestvv1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Kids World Tv",
+
+"image": "https://www.pngkey.com/png/full/399-3998494_kids-world-logo-png-transparent-kids-world-logo.png",
+
+"url": "http://tiny.cc/Kids1234",
+
+"import": false
+
+},
+
+{
+
+"name": "UK TV",
+
+"image": "http://www.pngall.com/wp-content/uploads/2016/06/United-Kingdom-Flag-PNG.png",
+
+"url": "http://tiny.cc/Uktv1234",
+
+"import": false
+
+},    
+
+{
+
+"name": "USA TV",
+
+"image": "https://clipart.info/images/ccovers/1559856917USA-Flag-Map-PNG-Clip-Art-Image.png",
+
+"url": "http://tiny.cc/USATV1234",
+
+"import": false
+
+},    
+
+{
+
+"name": "Asean TV",
+
+"image": "https://logos-download.com/wp-content/uploads/2016/09/Asean_logo_logotype.png",
+
+"url": "http://tiny.cc/ASEANTV1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Education On TV",
+
+"image": "https://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png",
+
+"url": "http://tiny.cc/Edu1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Music Choice",
+
+"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+
+"url": "http://tiny.cc/Musicchoice1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Music ChannelTv",
+
+"image": "https://cdn4.iconfinder.com/data/icons/water_gaming_pack/512/guitar_hero_3_b.png",
+
+"url": "http://tiny.cc/Musictvv1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Inter Movies New ",
+
+"image": "https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-94-512.png",
+
+"url": "http://tiny.cc/Newmov1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Inter Movies Thai",
+
+"image": "https://cdn2.iconfinder.com/data/icons/ballicons-2-vol-2/100/film-512.png",
+
+"url": "http://tiny.cc/Interthaimoviess1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Asia Movies",
+
+"image": "https://cdn-images-1.medium.com/max/500/1*gzDNptoMoHjYrfVN9KOpCA@2x.png",
+
+"url": "http://tiny.cc/5w5htz",
+
+"import": false
+
+},
+
+{
+
+"name": "Thai Movies",
+
+"image": "https://www.dropbox.com/s/oxaitbt3edqyup1/1612888726212.png?dl=1",
+
+"url": "http://tiny.cc/Thaimovie1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Animation Movies",
+
+"image": "https://cdn2.iconfinder.com/data/icons/monster-v-2-1/512/MonsterV2-16-512.png",
+
+"url": "http://tiny.cc/Thaimovie1234",
+
+"import": false
+
+},
+
+{
+
+"name": "Series+ ",
+
+"image": "https://logos.flamingtext.com/Word-Logos/s%C3%A9ries-design-china-name.png",
+
+"url": "http://tiny.cc/Series1",
+
+"import": false
+
+},
+
+{
+
+"name": "วีโอดี บิ๊กมูฟวี่",
+
+"image": "https://nepalicontacts.com/wp-content/uploads/bb-plugin/cache/Bigmoviespp-circle.jpg",
+
+"url": "https://docs.google.com/uc?export=download&id=1KJzBHS6vqhTAV5ot7geMZjNbgVAb0DRv",
+
+"import": false
+
+},      
+
+]
+
+}
