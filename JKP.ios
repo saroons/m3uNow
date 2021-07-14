@@ -47,6 +47,8 @@
 "url": "https://docs.google.com/uc?export=download&id=1VPm7kbVyRVXzP_IL6JksmTXdZM2lBfaj"
 },
 
+
+
 {
 "name": "DOCUMENTARY TV",
 "image":"https://yt3.ggpht.com/ytc/AAUvwni_qp0h9RSoYexTIUJkujUa_uUTOPAsYALvHhWg=s900-c-k-c0x00ffffff-no-rj",  
@@ -59,6 +61,11 @@
 "url": "https://docs.google.com/uc?export=download&id=1ipuhGifVKo4wb64h8o1TyciZ3uwnIpTA"
 },
 
+{
+"name": "MOVIE M3U",
+"image":"https://images-eu.ssl-images-amazon.com/images/I/61BlTnHAwTL.png",  
+"url": "https://raw.githubusercontent.com/tevadaa12/m3uNow/main/MOV.ini"
+},
 
 {"name": " Anime  ",
 "author": "",
