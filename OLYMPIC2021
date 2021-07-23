@@ -1,0 +1,262 @@
+{"name": "โอลิมปิกเกมส์ โตเกียว 2020",
+"image": "",
+"url": "",
+"stations":[
+
+{
+"name": "Olympic 1",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_01.png",
+"url": "https://www.ais.th/olympics/",
+"referer": "https://www.ais.th/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 2",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_02.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic02&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 3",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_03.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic03&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 4",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_04.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic04&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 5",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_05.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic05&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 6",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_06.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic06&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 7",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_07.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic07&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 8",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_08.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic08&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 9",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_09.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic09&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 10",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_10.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic10&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 11",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_11.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic11&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 12",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_12.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic12&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 13",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_13.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic13&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 14",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_14.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic14&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 15",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_15.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic15&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+{
+"name": "Olympic 16",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_16.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic16&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info": "Olympic Japan 2021",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBT",  
+"image": "https://www.doofree88.com/storage/live/nbt.png",  
+"url": "https://we-play.tv/watching/tv/11-nbt",
+"referer": "https://we-play.tv/",
+"info": "FREE Non Commercial",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBT สำรอง",  
+"image": "https://www.doofree88.com/storage/live/nbt.png",  
+"url": "https://www.adintrend.tv/hd/ch11?t=live",
+"referer": "https://www.adintrend.tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TPBS",
+"image": "https://www.doofree88.com/storage/live/thai-pbs.png",  
+"url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"referer": "https://thaipbs-live.cdn.byteark.com",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TPBS",
+"image": "https://www.doofree88.com/storage/live/thai-pbs.png",  
+"url": "https://we-play.tv/watching/tv/thai-pbs",
+"referer": "https://we-play.tv/",
+"info": "FREE Non Commercial",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True4u",
+"image": "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+"url": "https://true4u.com/live/",
+"referer": "https://true4u.com",
+"info": "FREE Non Commercial",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True4u",
+"image": "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+"url": "http://ballsodfc.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/?kp=true4u&dd=true4u",
+"referer": "http://ballsodfc.com/",
+"info": "FREE Non Commercial",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "GMM25",
+"image": "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch0",
+"referer": "https://www.adintrend.tv",
+"info": "FREE Non Commercial",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM25",
+"image": "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+"url": "https://www.we-play.tv/watching/tv/gmm25",
+"referer": "https://www.we-play.tv/",
+"info": "FREE Non Commercial",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "PPTV HD",
+"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+"url": "https://www.adintrend.tv/hd/m/ch25",
+"info": "FREE Non Commercial",
+"referer": "https://www.adintrend.tv",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD",
+"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+"url": "https://www.doofootball.com/live/streaming/pptv/644974",
+"referer": "https://www.doofootball.com/",
+"info": "FREE Non Commercial",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD",
+"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+"url": "https://ball8k.com/m_/channel.ball8k?stream=pptv",
+"referer": "https://ball8k.com/",
+"info": "FREE Non Commercial",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "T Sports",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/TSportsChannel.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-tsports&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "T Sports Ex",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/TSportsChannel.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=189",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "JKN18",
+"image": "https://i0.wp.com/www.jknglobal.com/wp-content/uploads/2020/03/Logo-JKN18.png?fit=1487%2C709&ssl=1",
+"url": "https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8",
+"referer": "http://www.onlinethailand.net/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "OLYMPIC CHANNEL",
+"image": "https://www.iwf.net/wp-content/uploads/2016/09/olympic-channel-e1470654911287-1024x576-637x634.jpg",
+"url": "http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/829?checkedby:iptvcat.com",
+"referer": "https://iptvcat.com/",
+"playInNatPlayer": "true"
+},
+
+
+]}
