@@ -4,133 +4,116 @@
 "stations":[
 
 {
-"name": "Olympic 1",
+"name":"1",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_01.png",
-"url": "https://www.ais.th/olympics/",
-"referer": "https://www.ais.th/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic01&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 2",
+"name":"2",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_02.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic02&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic02&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 3",
+"name":"3",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_03.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic03&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic03&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 4",
+"name":"4",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_04.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic04&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic04&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 5",
+"name":"5",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_05.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic05&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic05&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 6",
+"name":"6",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_06.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic06&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic06&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 7",
+"name":"7",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_07.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic07&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic07&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 8",
+"name":"8",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_08.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic08&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic08&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 9",
+"name":"9",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_09.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic09&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic09&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 10",
+"name":"10",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_10.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic10&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic10&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 11",
+"name":"11",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_11.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic11&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic11&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 12",
+"name":"12",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_12.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic12&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic12&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 13",
+"name":"13",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_13.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic13&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic13&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 14",
+"name":"14",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_14.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic14&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic14&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 15",
+"name":"15",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_15.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic15&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic15&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-"name": "Olympic 16",
+"name":"16",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_16.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic16&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "Olympic Japan 2021",
-"playInNatPlayer": "true"
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic16&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 
 {
