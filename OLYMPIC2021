@@ -4,117 +4,116 @@
 "stations":[
 
 {
-"name":"1",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_01.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic01&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 1",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_01.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic01&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"2",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_02.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic02&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 2",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_02.png",              
+               "url": "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic02&api_key=hmcb4rf66f",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"3",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_03.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic03&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 3",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_03.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic03&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"4",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_04.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic04&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 4",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_04.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic04&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"5",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_05.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic05&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 5",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_05.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic05&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"6",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_06.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic06&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 6",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_06.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic06&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"7",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_07.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic07&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 7",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_07.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic07&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"8",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_08.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic08&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 8",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_08.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic08&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"9",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_09.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic09&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 9",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_09.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic09&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"10",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_10.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic10&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 10",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_10.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic10&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"11",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_11.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic11&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 11",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_11.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic01&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"12",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_12.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic12&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 12",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_12.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic02&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"13",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_13.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic13&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 13",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_13.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic13&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"14",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_14.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic14&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 14",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_14.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic14&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"15",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_15.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic15&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 15",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_15.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic15&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
+
 {
-"name":"16",
-"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_16.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=th-olympic16&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"embed": "true","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+              name: "0lympic 16",
+              image: "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_16.png",              
+              url: "https://embed-dev.blackboxsys.net/player.php?channel=th-olympic16&api_key=hmcb4rf66f&ref",
+			  "info": "AIS PLAY",
+			  "playInNatPlayer": "true"},
 
 {
 "name": "NBT",  
